@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
+.wrapper {
+  min-height: 100px;
+}
+.header {
+  height: 100px;
+}
+.footer {
+  min-height: 200px;
+  background-color: #fff;
+}

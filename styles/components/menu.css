@@ -1,0 +1,14 @@
+.Menu-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: justify;
+}
+.Menu-list:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+.Menu-item {
+  display: inline-block;
+}
